@@ -3,7 +3,7 @@ Using Sapper> ability to easily use URLs.
 Start with the default Sapper app ,remove example code, set up  own app to serve  spreadsheet on /spreadsheet/1.
 The user will be able to double click a cell, and edit its content.
 Store everything the user types in its browser localstorage, so no worry / server-side database .
-this is a project made when following https://thejsbootcamp.com/
+This is a project made when following https://thejsbootcamp.com/
 
 
 
